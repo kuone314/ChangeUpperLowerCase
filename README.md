@@ -17,14 +17,14 @@
 # Use Case
 
 * to CamelCase
-![demo](Docs\ReadMe_Demo_1.gif)
-![demo](Docs\ReadMe_Demo_2.gif)
+![demo](Docs/ReadMe_Demo_1.gif)
+![demo](Docs/ReadMe_Demo_2.gif)
 
 * to UPPER_CASE
-![demo](Docs\ReadMe_Demo_3.gif)
+![demo](Docs/ReadMe_Demo_3.gif)
 
 * append word
-![demo](Docs\ReadMe_Demo_4.gif)
+![demo](Docs/ReadMe_Demo_4.gif)
 
 # Link
 
