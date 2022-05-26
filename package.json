@@ -3,6 +3,8 @@
 	"displayName": "change-upper-lower-case-for-single-character",
 	"description": "",
 	"version": "0.0.1",
+	"repository": "https://github.com/kuone314/ChangeUpperLowerCase",
+	"publisher": "kuone",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
