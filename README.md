@@ -1,3 +1,8 @@
+![badge](https://img.shields.io/github/forks/kuone314/ChangeUpperLowerCase)
+![badge](https://img.shields.io/github/stars/kuone314/ChangeUpperLowerCase)
+![badge](https://img.shields.io/github/license/kuone314/ChangeUpperLowerCase)
+
+
 # Change Upper Lower Case
 
 * Change upper/lower case.  
