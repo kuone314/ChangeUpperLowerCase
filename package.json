@@ -2,7 +2,10 @@
   "name": "change-upper-lower-case-for-single-character",
 	"displayName": "change-upper-lower-case-for-single-character",
 	"description": "",
-	"version": "0.0.1",
+	"version": "1.0.0",
+  "repository": "https://github.com/kuone314/ChangeUpperLowerCase",
+  "publisher": "kuone",
+  "icon": "icon.png",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
@@ -10,14 +13,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:change-upper-lower-case-for-single-character.helloWorld"
+        "onCommand:Change Upper Lower Case at Caret"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "change-upper-lower-case-for-single-character.helloWorld",
-				"title": "Hello World"
+				"command": "Change Upper Lower Case at Caret",
+				"title": "Change Upper Lower Case at Caret"
 			}
 		]
 	},
