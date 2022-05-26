@@ -49,7 +49,7 @@ function transformSetections(editor: vscode.TextEditor, func: (a: string) => str
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 export function activate(context: vscode.ExtensionContext) {
-	let disposable = vscode.commands.registerCommand('change-upper-lower-case-for-single-character.helloWorld', () => {
+	let disposable = vscode.commands.registerCommand('Change Upper Lower Case at Caret', () => {
 		const editor = vscode.window.activeTextEditor;
 		if (!editor) { return; }
 

@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:change-upper-lower-case-for-single-character.helloWorld"
+        "onCommand:Change Upper Lower Case at Caret"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "change-upper-lower-case-for-single-character.helloWorld",
-				"title": "Hello World"
+				"command": "Change Upper Lower Case at Caret",
+				"title": "Change Upper Lower Case at Caret"
 			}
 		]
 	},
