@@ -25,3 +25,8 @@
 
 * append word
 ![demo](Docs\ReadMe_Demo_4.gif)
+
+# Link
+
+* [GitHub](https://github.com/kuone314/ChangeUpperLowerCase)
+* [Twitter](https://twitter.com/KuoneTech)
