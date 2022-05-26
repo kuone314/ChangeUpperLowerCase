@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/github/license/kuone314/ChangeUpperLowerCase)
 
 
-# Change Upper Lower Case
+# Change Upper Lower Case at Caret
 
 * Change upper/lower case.  
 大文字,小文字の切り替えを行います。
